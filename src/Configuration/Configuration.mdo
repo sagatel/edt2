@@ -33,4 +33,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.Константа</constants>
 </mdclass:Configuration>
